@@ -12,3 +12,5 @@ Each file must be executed one after the other in the following order:
 
 The first program saves the name of the songs in addition to the artist in a text file. In second place, it's necessary to store the urls of the songs in order for yt-dlp to work correctly.
 Thirdly we can download all of the songs that will be stored in the same directory as the code is found in. Lastly, the movesongs.py code allows you to move all .mp4 files to another directory.
+
+You may need to install the different packages that are imported in each program.
